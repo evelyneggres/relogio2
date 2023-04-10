@@ -1,0 +1,50 @@
+body{
+    background-image:url(fundo.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    padding-left: 530px;
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+
+
+.atras{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: Goldenrod;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+
+.relogio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: Goldenrod;
+    width: 170px;
+    height: 170px;
+    border-radius: 15px;
+}
+
+.back{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: DarkGrey;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    font-size: 30px;
+    color: Gainsboro;
+}
